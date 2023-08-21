@@ -19,7 +19,7 @@
         <div class="container">
             <div class="d-grid contact-view">
                 <div class="cont-details">
-                    <div class="cont-top">
+                    <!-- <div class="cont-top">
                         <div class="cont-left text-center">
                             <span class="fa fa-phone text-primary"></span>
                         </div>
@@ -27,8 +27,8 @@
                             <h6>Call Me</h6>
                             <p><a :href="'tel:'+data.main.phone">{{data.main.phone}}</a></p>
                         </div>
-                    </div>
-                    <div class="cont-top margin-up">
+                    </div> -->
+                    <div class="cont-top">
                         <div class="cont-left text-center">
                             <span class="fa fa-envelope-o text-primary"></span>
                         </div>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="cont-right">
                             <h6>Location</h6>
-                            <p>{{data.main.address.street}} , {{data.main.address.city}}, {{data.main.address.state}}, {{data.main.address.zip}}.</p>
+                            <p>{{data.main.address.city}}, {{data.main.address.state}}.</p>
                         </div>
                     </div>
                 </div>

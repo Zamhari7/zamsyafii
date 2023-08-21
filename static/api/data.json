@@ -1,24 +1,24 @@
 {
     "main": {
-        "name": "Baizid MD Ashadzzaman",
-        "shortname": "Zaman",
-        "occupation": "Developer / Programmer / Engineer",
+        "name": "Zamhari Syafi'i",
+        "shortname": "Zam",
+        "occupation": "Developer / Programmer",
         "description": "Eat, sleep, code, repeat.",
-        "yearofexperience": "05",
-        "age": "25",
-        "designation": "Software engineer",
-        "image": "/images/photo.png",
-        "fullimage": "/images/myphoto1.jpg",
-        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
-        "contactmessage": "Get in touch with me to to build any software for your business.!",
-        "email": "baizid.md.ashadzzaman@gmail.com",
-        "phone": "+88 01862420119",
-        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
+        "yearofexperience": "2",
+        "age": "23",
+        "designation": "Web developer",
+        "image": "/images/profile.png",
+        "fullimage": "/images/myprofile.png",
+        "bio": "Hi there! I have been passionate about designing, programing and developing apps in different platforms such as web or andorid. I am looking for a junior developer position that can help me to achieve my goal.",
+        "contactmessage": "Get in touch with me to to build any website for your business.!",
+        "email": "zamharisyafii@gmail.com",
+        "phone": "",
+        "mapaddress": "",
         "address": {
-            "street": "Pahartoli 12 quater",
-            "city": "Chittagong",
-            "state": "Bangladesh",
-            "zip": "4202"
+            "street": "",
+            "city": "Bontang",
+            "state": "Indonesia",
+            "zip": ""
         },
         "quotes1": {
             "sectiontitle": "My resume",
@@ -36,30 +36,21 @@
             "awardrecived": "15",
             "happyclinet": "100"
         },
-        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
-        "social": [{
-                "name": "youtube",
-                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
-                "className": "fa fa-youtube"
-            },
-            {
-                "name": "facebook",
-                "url": "https://www.facebook.com/asadzaman0167",
-                "className": "fa fa-facebook"
-            },
+        "resumedownload": "https://drive.google.com/file/d/19Tp9ZEt1z5yqa_IMUZnjrpUNGRTJm3-L/view?usp=sharing",
+        "social": [
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/zamanasad/",
+                "url": "https://www.linkedin.com/in/zamhari-syafi-i-766265177/",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "instagram",
-                "url": "https://www.instagram.com/iamasadzaman/",
+                "url": "https://www.instagram.com/zam_syafii/",
                 "className": "fa fa-instagram"
             },
             {
                 "name": "github",
-                "url": "https://github.com/Baizidmdashadzzaman",
+                "url": "https://github.com/zamhari7",
                 "className": "fa fa-github"
             }
         ]
@@ -67,16 +58,16 @@
     "resume": {
         "skillmessage": "My Programming Language Proficiency",
         "education": [{
-            "school": "International Islamic University Chittagong.",
+            "school": "Universitas 17 Agustus 1945 Surabaya",
             "degree": "Bachelor's Degree, Computer Science",
-            "graduated": "July 2018",
-            "description": "Graduated with First Class Honours"
+            "graduated": "September 2022",
+            "description": ""
         }],
         "work": [{
-            "company": "Scandicsoft",
-            "title": "Software engineer",
-            "years": "Jan 2018 - Present",
-            "description": "Developing some userfriendly and best software."
+            "company": "",
+            "title": "",
+            "years": "",
+            "description": ""
         }],
         "skillssectiontitle":"Motivated by the Desire to achieve Success",
         "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
@@ -105,21 +96,33 @@
     "portfolio": {
         "projects": [{
                 "no":"01",
-                "title": "RMS with AR",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+                "title": "Enzo Store",
+                "description": "E-commerce UI/UX design with Figma.",
+                "url": ""
             },
             {
                 "no":"02",
-                "title": "Prothom alo clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+                "title": "Onlab",
+                "description": "E-Learning website used for practicum at Lab. Desain Komputer.",
+                "url": ""
             },
             {
                 "no":"03",
-                "title": "Chaldal Clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+                "title": "Tri Dharma",
+                "description": "Website to manage data at Universitas 17 Agustus 1945 Surabaya, Engineering Faculty.",
+                "url": ""
+            },
+            {
+                "no":"04",
+                "title": "RiNN",
+                "description": "Android App used as a diary and activity tracking during the covid pandemic.",
+                "url": ""
+            },
+            {
+                "no":"05",
+                "title": "Web Daskom",
+                "description": "E-Learning website used for practicum at Lab. Desain Komputer.",
+                "url": ""
             }
         ]
     },

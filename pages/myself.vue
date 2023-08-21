@@ -58,7 +58,7 @@
 </section>
 
 
-<section class="w3l-services py-5 w3l-resume ">
+<!-- <section class="w3l-services py-5 w3l-resume ">
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Services</h5>
@@ -90,12 +90,12 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
 
-<section class="w3l-content-6 py-5">
+<!-- <section class="w3l-content-6 py-5">
     <div class="content-6-mian py-lg-5 py-md-4">
         <div class="container">
             <div class="content-info-in row">
@@ -115,10 +115,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
-<div class="abouthy-img-grids">
+<!-- <div class="abouthy-img-grids">
     <div class="img-one">
         <img src="/resources/assets/images/g5.jpg" alt=" " class="img-fluid">
     </div>
@@ -132,16 +132,16 @@
     <div class="img-one">
         <img src="/resources/assets/images/g3.jpg" alt=" " class="img-fluid">
     </div>
-</div>
+</div> -->
 
 <section class="w3l-services">
-    <div class="w3l-achievements py-5" id="services">
-        <div class="container py-lg-5">
-            <h5 class="title-small text-center">Education</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">My Educations</h3>
+    <div class="w3l-achievements" id="services">
+        <div class="container">
+            <!-- <h5 class="title-small text-center">Education</h5> -->
+            <h3 class="title-big text-center mb-sm-5 mb-4">Education</h3>
             <div class="row">
                 
-                <div class="col-lg-6 item" v-for="education in data.resume.education" v-bind:key="education">
+                <div class="col-lg-12 item" v-for="education in data.resume.education" v-bind:key="education">
                     <div class="card">
                         <div class="box-wrap">
                             <div class="icon">
@@ -151,7 +151,7 @@
                             <p>
                                 School : {{education.school}}<br>
                                 Graduated : {{education.graduated}}<br>
-                                Description : {{education.description}}<br>
+                                <!-- Description : {{education.description}}<br> -->
                             </p>
                         </div>
                     </div>
@@ -164,7 +164,7 @@
     </div>
 </section>
 
-<section class="w3l-services">
+<!-- <section class="w3l-services">
     <div class="w3l-achievements py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Work</h5>
@@ -192,9 +192,9 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<section class="w3l-services">
+<!-- <section class="w3l-services">
     <div class="w3l-achievements py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">My achievements</h5>
@@ -218,7 +218,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
